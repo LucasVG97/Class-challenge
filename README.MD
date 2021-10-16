@@ -1,4 +1,4 @@
-# This repo contains my resolution of 2 challenges. 
+# This repo will be filled with the resolution of 2 challenges. 
 
 ------
 
